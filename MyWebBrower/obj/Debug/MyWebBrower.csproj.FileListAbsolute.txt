@@ -1,0 +1,8 @@
+C:\Users\Denise\source\repos\MyWebBrower\MyWebBrower\bin\Debug\MyWebBrower.exe.config
+C:\Users\Denise\source\repos\MyWebBrower\MyWebBrower\bin\Debug\MyWebBrower.exe
+C:\Users\Denise\source\repos\MyWebBrower\MyWebBrower\bin\Debug\MyWebBrower.pdb
+C:\Users\Denise\source\repos\MyWebBrower\MyWebBrower\obj\Debug\MyWebBrower.FrmMain.resources
+C:\Users\Denise\source\repos\MyWebBrower\MyWebBrower\obj\Debug\MyWebBrower.Properties.Resources.resources
+C:\Users\Denise\source\repos\MyWebBrower\MyWebBrower\obj\Debug\MyWebBrower.csproj.GenerateResource.cache
+C:\Users\Denise\source\repos\MyWebBrower\MyWebBrower\obj\Debug\MyWebBrower.exe
+C:\Users\Denise\source\repos\MyWebBrower\MyWebBrower\obj\Debug\MyWebBrower.pdb
